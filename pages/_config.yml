@@ -1,0 +1,34 @@
+title: Eliza Macovei
+description: Eliza's personal website
+baseurl: ""
+url: https://www.elizamac.eu
+
+theme: cvless
+
+# site settings
+taglong: Eliza's personal website
+tagshort: Eliza Macovei
+
+# author settings
+author:
+  name: Eliza Macovei
+  email: elizaf.macovei@gmail.com
+photo: assets/files/photo.jpg
+#address: Foobar Hall 1.23
+#phone: +1 234 567 890
+
+# social media links
+social:
+  #facebook: username
+  github: elizamac
+  instagram: sp1ralgalaxy
+  #linkedin: username
+  #stackoverflow: 0000000/username
+  #x: username
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
