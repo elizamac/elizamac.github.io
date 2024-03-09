@@ -1,10 +1,9 @@
-title: ""
-description: ""
-baseurl: ""
-url: ""
+title: "Eliza Macovei"
+description: "(she/they)"
+baseurl: "https://www.elizamac.eu"
+url: "https://www.elizamac.eu"
 
 exclude:
-  - demo/
   - cvless.gemspec
   - LICENSE
   - README.md
