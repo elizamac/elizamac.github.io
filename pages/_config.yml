@@ -1,7 +1,7 @@
 title: Eliza Macovei
 description: Eliza's personal website
-baseurl: "https://www.elizamac.eu"
-url: "https://www.elizamac.eu"
+baseurl: 
+url: https://www.elizamac.eu
 
 theme: cvless
 
