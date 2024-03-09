@@ -7,13 +7,15 @@ exclude:
   - cvless.gemspec
   - LICENSE
   - README.md
-  - screenshot.png
 
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-seo-tag
+  - jekyll-sitemap
+  
+whitelist:
   - jekyll-sitemap
 
 sass:
